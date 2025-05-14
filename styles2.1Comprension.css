@@ -1,0 +1,27 @@
+body{
+    background-color: black;
+    color:antiquewhite;
+	font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+main{
+		font-size: 22px;
+}
+
+.txtprensa{
+	text-align: center;
+	font-size: 50px;
+}
+
+li{
+	margin-top: 25px;
+	margin-bottom: 10px;
+	font-size: 33px;
+	font-weight: bold;
+}
+
+a {
+        font-size: 20px; 
+    	color: #e74c3c; 
+		margin-left: 50px;
+}
